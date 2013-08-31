@@ -11,6 +11,7 @@ published: true
 meta:
   aktt_notify_twitter: 'no'
   _aktt_hash_meta: ''
+comments: true
 ---
 <p>Hi dear reader. Long time no see ;) but lets get straight to the point.</p>  
 <p>I’m a huge podcast fan. I listen them on a daily basis and I’m always trying something new. Recently I’ve started learning Korean. The best thing in learning languages those days is that you have lots of free resources – from articles about the language – to whole curses with audio. One of those curses is provided by <a href="http://www.talktomeinkorean.com/">TalkToMeinKorean</a>. It’s in a format of podcast with companion pdfs. The problem that I had was that I was just starting and the beginner series were at the very beginning (or at the end – depending on the point of view) of the RSS feed. Getting to them them on my Google Listen Android app was impossible. It would choke on <em>Load more episodes…</em> after about 20 of them. Having in mind that mentioned RSS at the time of this writing on Level 3 Lesson 14.. well let’s just say scrolling is not an option.</p>  

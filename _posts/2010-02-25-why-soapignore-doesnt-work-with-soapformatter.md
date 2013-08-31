@@ -13,6 +13,7 @@ meta:
   aktt_notify_twitter: 'no'
   _aktt_hash_meta: ''
   _edit_last: '1'
+comments: true
 ---
 This post was inspired by <a href="http://stackoverflow.com/questions/2283482/applying-soapignore-attribute-doesnt-take-any-effect-to-serialization-result/2285142#2285142" target="_blank">StackOverflow question</a> about using SoapIgnore in SoapFormatter.
 

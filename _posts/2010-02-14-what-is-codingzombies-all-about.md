@@ -13,6 +13,7 @@ meta:
   aktt_notify_twitter: 'no'
   _aktt_hash_meta: ''
   _edit_last: '1'
+comments: true
 ---
 CodingZombies was created because of a belief that if we give, the World will give us back. If we share knowledge we will all learn faster, become better and overall be more happy.
 

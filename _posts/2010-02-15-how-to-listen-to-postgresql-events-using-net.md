@@ -17,6 +17,7 @@ meta:
   aktt_notify_twitter: 'no'
   _aktt_hash_meta: ''
   _edit_last: '1'
+comments: true
 ---
 In a recent project I needed to monitor PostgreSQL database. Needless to say I never worked with this database and I had a hard time finding anything interesting on the net. Finally after asking a <a href="http://stackoverflow.com/questions/2147353/how-to-make-postgresql-trigger-and-c-windows-service-work-together" target="_blank">question</a> on <a title="StackOverflow" href="http://stackoverflow.com" target="_blank">StackOverflow</a> I was directed to SQL notify mechanism. I've spend some time going through the documentation and I want to share what I've found out.
 

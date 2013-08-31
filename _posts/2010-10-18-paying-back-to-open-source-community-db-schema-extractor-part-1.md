@@ -13,6 +13,7 @@ published: true
 meta:
   aktt_notify_twitter: 'no'
   _aktt_hash_meta: ''
+comments: true
 ---
 <p>In life of every developer there is a time when he needs to pay back to the community that brought you up. I believe most of code should be open – this is the best way to tap into endless community knowledge and resources, the fastest way to find bugs and fix them and foremost the best way to become an awesome developer. If I only could I would publish all the code my clients are paying for – but most of the line of business apps that I’m writing are giving my clients some sort of
 competitive advantage and they would never agree to such a thing .</p>

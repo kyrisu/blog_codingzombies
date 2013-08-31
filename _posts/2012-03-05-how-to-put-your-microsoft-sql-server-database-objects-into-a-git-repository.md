@@ -18,6 +18,7 @@ meta:
   _social_aggregated_ids: a:2:{s:7:"twitter";a:0:{}s:8:"facebook";a:0:{}}
   _social_aggregation_log: a:1:{i:1358333481;O:8:"stdClass":1:{s:6:"manual";b:0;}}
   _wp-svbtle-kudos: '1'
+comments: true
 ---
 Recently I have found a new table and a new procedure in a production database of one of our clients. The problem was - we didn't put it there and the client, even though he is obligated by the agreement to report any changes to the database, didn't report it either. Some of our workflows and processes depend on the assumption that we know the exact state of the database - in this case we did not. Lets assume for a second that we make a change that breaks  the dependencies of the procedure or a table. Then the procedure, that we know nothing about, tries to execute and corrupts some data. Based on the maintenance agreement with the client it will be our fault if we don't have a proof that it is otherwise.
 
