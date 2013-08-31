@@ -3,7 +3,7 @@ description:      Rambling thoughts of a coding zombie
 logo:             site-logo.png
 disqus_shortname: codingzombies
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://codingzombies.com
+url:              http://codingzombies.com
 
 # Owner/author information
 owner:
